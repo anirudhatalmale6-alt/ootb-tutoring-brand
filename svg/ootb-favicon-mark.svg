@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 6 92 90" width="92" height="90" role="img" aria-label="OOTB">
+  <path d="M60 20 H32 A14 14 0 0 0 18 34 V62 A14 14 0 0 0 32 76 H62 A14 14 0 0 0 76 62 V52"
+        fill="none" stroke="#23A455" stroke-width="15" stroke-linecap="round"/>
+  <path d="M79 10 L85 25 L100 31 L85 37 L79 52 L73 37 L58 31 L73 25 Z" fill="#FDC64D"/>
+</svg>

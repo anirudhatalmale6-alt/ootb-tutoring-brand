@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335 94" width="335" height="94" role="img" aria-label="OOTB Tutoring">
+  <path d="M60 20 H32 A14 14 0 0 0 18 34 V62 A14 14 0 0 0 32 76 H62 A14 14 0 0 0 76 62 V52"
+        fill="none" stroke="#23A455" stroke-width="12.5" stroke-linecap="round"/>
+  <path d="M78 12 L83.5 25.5 L97 31 L83.5 36.5 L78 50 L72.5 36.5 L59 31 L72.5 25.5 Z" fill="#FDC64D"/>
+  <text x="110" y="52" font-family="Poppins, Arial, Helvetica, sans-serif" font-weight="900" font-size="36" fill="#0B3D57" letter-spacing="-1">OOTB</text>
+  <text x="112" y="72" font-family="Poppins, Arial, Helvetica, sans-serif" font-weight="700" font-size="13.5" fill="#23A455" letter-spacing="5.2">TUTORING</text>
+</svg>
